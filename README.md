@@ -1,6 +1,7 @@
 # 🚗 Car Dealership Application
 
-![Car Dealership](https://tse1.mm.bing.net/th/id/OIP.OuFc3sHzXHFgYoPyUlq0SQHaDt?pid=Api)
+![image](https://github.com/user-attachments/assets/091348d7-9fba-4474-b68e-9dc47c90ee0e)
+
 
 A modern web-based **Car Dealership Management System** built using **Spring Boot**. This application helps businesses manage new and used car inventory, customer sales, financing, repairs, and trade-ins in an organized and scalable way.
 
