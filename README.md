@@ -38,7 +38,7 @@ A modern web-based **Car Dealership Management System** built using **Spring Boo
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/car-dealership-app.git
+git clone https://github.com/zuls/CarDealership.git
 cd car-dealership-app
 mvn clean install
 mvn spring-boot:run
