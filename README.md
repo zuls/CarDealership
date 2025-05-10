@@ -10,19 +10,19 @@ A modern web-based **Car Dealership Management System** built using **Spring Boo
 ## ✨ Features
 
 - 🏬 Add and manage car listings (new and used)
-- 👥 Manage customer information
-- 💰 Handle car sales and trade-ins
-- 🧾 Provide financing options
-- 🛠️ Track repair and maintenance services
-- 🔒 Role-based login and secure access
+- 👥 Manage customer information (todo)
+- 💰 Handle car sales and trade-ins (todo)
+- 🧾 Provide financing options (todo)
+- 🛠️ Track repair and maintenance services (todo)
+- 🔒 Role-based login and secure access (todo)
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Backend**: Java, Spring Boot, Spring MVC, Spring Data JPA
-- **Frontend**: Thymeleaf (or can be extended to React/Angular)
-- **Database**: H2 (dev), MySQL/PostgreSQL (prod)
+- **Backend**: Java, Spring Boot, Spring Data JPA
+- **Frontend**: React and iOS (todo)
+- **Database**: PostgreSQL
 - **Build Tool**: Maven
 - **Deployment**: Embedded Tomcat Server
 
